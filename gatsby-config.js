@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "marina",
+    siteUrl: "http://marinamain.gatsbyjs.io",
   },
   plugins: [
     "gatsby-plugin-styled-components",
